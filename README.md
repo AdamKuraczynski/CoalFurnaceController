@@ -1,12 +1,18 @@
 # CoalFurnaceController
 
 #### Repository structure:
-\PPT - the catalog contains the presentation of the project in its final version, i.e., supplemented with conclusions after completion of work,
-\SCH - complete project with PROTELA or EAGLE (without backup files) but with all necessary libraries (please check correctness!!!) additionally, there should be JPG or PDF files with schematics and views of the printed circuit board layers for quick preview without the need to open the entire project.
-\SRC - if a microcontroller was used for the project, this directory should contain the source code, along with test programs in compilable and final versions.
-\DOC -
-\SPR - the directory contains all necessary documentation files for the project, i.e., report sources (.doc or html), JPG, PDF, etc., including the source materials used for algorithm development.
-\PDF - The directory should contain the entire documentation for all active digital circuits.
+\PPT - the catalog contains the presentation of the project in its final version, i.e., supplemented with conclusions after completion of work,  
+
+\SCH - complete project with PROTELA or EAGLE (without backup files) but with all necessary libraries (please check correctness!!!) additionally, there should be JPG or PDF files with schematics and views of the printed circuit board layers for quick preview without the need to open the entire project.  
+
+\SRC - if a microcontroller was used for the project, this directory should contain the source code, along with test programs in compilable and final versions.  
+
+\DOC -  
+
+\SPR - the directory contains all necessary documentation files for the project, i.e., report sources (.doc or html), JPG, PDF, etc., including the source materials used for algorithm development.  
+
+\PDF - The directory should contain the entire documentation for all active digital circuits.  
+
 
 ##### Sprzęt:
 Arduino UNO R3
